@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=Welcome!&fontSize=50)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=230&section=header&text=Welcome%20to%20uzin%27s%20git&fontSize=54&fontColor=111111&desc=Frontend%20%7C%20SSAFY%2015th&descSize=20&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=230&section=header&text=YoujinKim&fontSize=60&fontColor=111111&desc=Welcome%20to%20uzin%27s%20git&descSize=22&descAlignY=72&animation=fadeIn)
 <!--
 **uzinkkk/uzinkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
