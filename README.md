@@ -1,4 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=230&section=header&text=🖤%20YoujinKim%20🤍&fontSize=72&fontColor=222222&fontAlignY=46&desc=Welcome%20to%20uzin%27s%20git&descSize=22&descAlignY=74&animation=fadeIn&color=0:FF8FA3,100:FFD1DC)
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.instagram.com/okizj_?igsh=ejN6b3NqM21xa2I0&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/okizj_?igsh=ejN6b3NqM21xa2I0&utm_source=qr"> </a>
+         <a href=mailto:https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=yj051888@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=yj051888@gmail.com" target="_blank""> </a>
+         <a href=https://m.blog.naver.com/youjin0518> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/youjin0518"> </a>
+         <a href=https://www.notion.so/Git-2f7ec94529fd80aeb109d585df6a6514?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Git-2f7ec94529fd80aeb109d585df6a6514?source=copy_link"> </a>
+         <a href=https://velog.io/@uzin5/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@uzin5/posts"> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzinkkk%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=uzinkkk&bg_color=180,d8c0d0,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzinkkk&layout=compact&bg_color=180,d8c0d0,00000000&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
 <!--
 **uzinkkk/uzinkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
