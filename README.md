@@ -19,10 +19,8 @@
          <a href=https://m.blog.naver.com/youjin0518> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/youjin0518"> </a>
          <a href=https://www.notion.so/Git-2f7ec94529fd80aeb109d585df6a6514?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Git-2f7ec94529fd80aeb109d585df6a6514?source=copy_link"> </a>
          <a href=https://velog.io/@uzin5/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@uzin5/posts"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzinkkk%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div> 
+          </div>
+    
 
 <!--
 **uzinkkk/uzinkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
