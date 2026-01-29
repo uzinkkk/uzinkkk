@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=230&section=header&text=🖤%20YoujinKim%20🖤🤍&fontSize=72&fontColor=222222&fontAlignY=46&desc=Welcome%20to%20uzin%27s%20git&descSize=22&descAlignY=74&animation=fadeIn&color=0:FF8FA3,100:FFD1DC)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=230&section=header&text=🖤%20YoujinKim%20🤍&fontSize=72&fontColor=222222&fontAlignY=46&desc=Welcome%20to%20uzin%27s%20git&descSize=22&descAlignY=74&animation=fadeIn&color=0:FF8FA3,100:FFD1DC)
 
 <div align="center">
 
