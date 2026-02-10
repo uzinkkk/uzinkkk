@@ -106,8 +106,8 @@
     100% { fill: #161b22; }
   }
   @keyframes grass-loop-366 {
-    0% { fill: #0e4429; }
-    71.44055005869531% { fill: #0e4429; }
+    0% { fill: #26a641; }
+    71.44055005869531% { fill: #26a641; }
     74.79456649337584% { fill: #161b22; }
     100% { fill: #161b22; }
   }
@@ -1050,7 +1050,7 @@
   <rect x="624" y="84" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="636" y="12" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="636" y="24" width="10" height="10" fill="#161b22" rx="2"/>
-  <rect x="636" y="36" width="10" height="10" fill="#0e4429" rx="2" style="animation: grass-loop-366 59.62999999999999s linear 0s 1 both"/>
+  <rect x="636" y="36" width="10" height="10" fill="#26a641" rx="2" style="animation: grass-loop-366 59.62999999999999s linear 0s 1 both"/>
   <g class="sheep-0" style="transform: translate(-9999px, -9999px) rotate(180deg) scale(0.64) translate(-8px, -6.25px); opacity: 0; animation: sheep-0-move 59.62999999999999s linear 0s 1 both;"><g transform="translate(0,7.5) scale(1,1.25) translate(0,-7.5)">
   <path
     d="M8 10.5
