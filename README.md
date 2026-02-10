@@ -61,5 +61,6 @@
 -->
 
 ## 🌱 잔디
-![grass](https://raw.githubusercontent.com/uzinkkk/uzinkkk/main/assets/live.svg)
+![grass](https://raw.githubusercontent.com/uzinkkk/green-movement/main/assets/live.svg)
+
 
