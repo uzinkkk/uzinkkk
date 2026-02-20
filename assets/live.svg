@@ -1053,6 +1053,7 @@
   <rect x="636" y="36" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="636" y="48" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="636" y="60" width="10" height="10" fill="#161b22" rx="2"/>
+  <rect x="636" y="72" width="10" height="10" fill="#161b22" rx="2"/>
   <g class="sheep-0" style="transform: translate(-9999px, -9999px) rotate(180deg) scale(0.64) translate(-8px, -6.25px); opacity: 0; animation: sheep-0-move 59.62999999999999s linear 0s 1 both;"><g transform="translate(0,7.5) scale(1,1.25) translate(0,-7.5)">
   <path
     d="M8 10.5
